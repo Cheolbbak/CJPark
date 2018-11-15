@@ -1,0 +1,7 @@
+Date: 2018-11-15
+Participants: Cheoljun Park, Kimin Kim, Jinheung Kim.
+Goal: Classify what we want to analysis, Learn about focasred cookbook.
+Tried: Classify the fits files for several directories, Do bias subtracting.
+Results & Problems: We delected unneccesary files and categorized files with criteria(like filter,object,binning,etc.),
+and failed to do bias subtracting.
+Future Work: Data reduction with pyraf(not iraf).
