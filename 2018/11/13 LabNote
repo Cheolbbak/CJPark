@@ -1,0 +1,7 @@
+Date: 2018-11-06
+Participants: Cheoljun Park, Kimin Kim, Jinheung Kim.
+Goal: Learn how to use SMOKA, Download data from SMOKA.
+Tried: Register to SMOKA,  and find where our target is in images.
+Results & Problems: We asked TA how to download via ftp and get data for analysis.
+We find the IRAF spectroscopical data analysis menual.
+Future Work: Download calibration frames. Do preprocessing.
