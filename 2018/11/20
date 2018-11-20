@@ -1,0 +1,14 @@
+Date: 2018-11-20
+
+Participants: Cheoljun Park, Kimin Kim, Jinheung Kim.
+
+Goal: Bias reduction, Flat reduction.
+
+Tried: Do median-combining bias files and reduct files with combined bias file.
+
+Results & Problems: For Filter SLY47, bias reduction is ok. But bias binning has different from flat,object files
+so those couldn't reduct with bias files of 550 filter.
+Failed overscan subtration because of no ovsub parameter file.
+We don't know why this file does not exist in focasred package.
+
+Future Work: Data reduction with pyraf(not iraf).
