@@ -1,1 +1,12 @@
+Date: 2018-11-22
 
+Participants: Cheoljun Park, Kimin Kim, Jinheung Kim.
+
+Goal: Flat fielding, Distortion Correction.
+
+Tried: Flat fielding and distortion correction with iraf.
+
+Results & Problems: My iraf and ds9 have a terrible problem, so imarith method did not operate during flat fielding.
+So i reinstall iraf and ds9 but download speed is slow to do data reduction.
+
+Future Work: Wavelength calibration with iraf.
