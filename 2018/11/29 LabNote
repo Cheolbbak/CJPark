@@ -4,8 +4,8 @@ Participants: Cheoljun Park, Kimin Kim, Jinheung Kim.
 
 Goal: Wavelength calibration.
 
-Tried: 
+Tried: Wavelength calibration with night sky lines.
 
-Results & Problems: 
+Results & Problems: 8 samples is used for 5 orders function. RMS value is 1.2 which is a pretty bigger than general value.
 
-Future Work: 
+Future Work: Finish wavelength calibration.
